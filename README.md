@@ -62,3 +62,6 @@ See grafana.net for some example [dashboards](https://grafana.net/dashboards) an
 ## Credit
 
 Alertmanager configs and integration in this repository was heavily inspired by the implementation in [kayrus/prometheus-kubernetes](https://github.com/kayrus/prometheus-kubernetes).
+
+# Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StephenN)
